@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  placed_at: 2022-01-12
+  total: 9.99
+  customer: one
+
+two:
+  placed_at: 2022-01-12
+  total: 9.99
+  customer: two
